@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kostasa1
+- 👋 Hi, I’m Kostas Avgeros
 - 👀 I’m interested in electronics as a hobbyist
 - 🌱 I’m currently learning esp8266 projects
 - 💞️ I’m looking to collaborate on ...
